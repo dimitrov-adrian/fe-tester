@@ -1,0 +1,5 @@
+# Comments are allowed with # prefix
+
+http://localhost/
+http://localhost/example1
+#http://localhost/example2
